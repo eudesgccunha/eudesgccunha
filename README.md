@@ -16,11 +16,25 @@ Welcome to my GitHub! <br>
 
 
 ### 📫 Connect with me in 
-https://linktr.ee/eudesgccunha
-<img src=
-<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd" viewBox="0 0 417 512.238"><path fill="#43E660" fill-rule="nonzero" d="M171.274 344.942h74.09v167.296h-74.09V344.942zM0 173.468h126.068l-89.622-85.44 49.591-50.985 85.439 87.829V0h74.086v124.872L331 37.243l49.552 50.785-89.58 85.24H417v70.502H290.252l90.183 87.629L331 381.192 208.519 258.11 86.037 381.192l-49.591-49.591 90.218-87.631H0v-70.502z"/></svg>
+
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eudesgccunha)
+
 
 ### ☕ Get in touch
+
+<p dir="auto">
+  &nbsp;<a href="https://br.linkedin.com/in/leudesgccunha" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  &nbsp;&nbsp;<a href="https://www.instagram.com/eudesgc.cunha/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;">
+  </a>&nbsp;
+ 
+</p>
+
+
+<!--
+Outro método de fazer
 
 <div display="inline">
 
@@ -28,7 +42,7 @@ https://linktr.ee/eudesgccunha
   <img src="https://camo.githubusercontent.com/8723ff0eeaafc2c4ab715fd8aaccd38ee674bea8d34a648ac2f8fe7e565b5784/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d7265643f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="ig" data-canonical-src="https://img.shields.io/badge/-Instagram-red?style=for-the-badge&amp;logo=instagram&amp;logoColor=white;link=https://www.instagram.com/in/eudesgc.cunha/" style="max-width: 100%;">
 
   </p>
-
+-->
 
 ### Languages and Technologies
 
