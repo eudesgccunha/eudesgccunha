@@ -15,12 +15,12 @@ Welcome to my GitHub! <br>
 - Customizing my data science portfolio
 
 
-### 📫 Connect with me in 
+### 📫 Get in touch
 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eudesgccunha)
 
 
-### ☕ or Get in touch
+### ☕ or Connect with me in 
 
 <p dir="auto">
   <a href="https://br.linkedin.com/in/eudesgccunha" rel="nofollow">
