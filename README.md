@@ -20,7 +20,7 @@ Welcome to my GitHub! <br>
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eudesgccunha)
 
 
-### ☕ Get in touch
+### ☕ or Get in touch
 
 <p dir="auto">
   <a href="https://br.linkedin.com/in/eudesgccunha" rel="nofollow">
