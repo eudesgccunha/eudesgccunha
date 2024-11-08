@@ -4,7 +4,8 @@ Welcome to my GitHub! <br>
 <br>
 
 ### 📄 About me
-- I'm currently studying Data Science and Data Analysis
+- I'm currently working on small personal projects and cases
+- Data Scientist and Data Analyst
 - Bachelor's Degree in Biomedicine (UFPE)
 - MSc and PhD in Therapeutic Innovation (UFPE)
 
