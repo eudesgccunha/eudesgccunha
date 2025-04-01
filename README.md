@@ -47,20 +47,6 @@ Welcome to my GitHub! <br>
 
 
 ---
-<!--
-<div align="center" dir="auto">
-  <p>
-  
-   [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eudesgccunha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/eudesgccunha/github-readme-stats#gh-dark-mode-only)
-  </p>
-</div>
-   
- <!--
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eudesgccunha&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)
- 
-  </p>
-</div>
--->
 
 <picture>
   <source
